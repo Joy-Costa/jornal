@@ -1,0 +1,26 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.noticia{
+    text-decoration: none;
+    margin-left: 15px;
+    float: left;
+}
+    
+div{
+    margin: auto;
+}
+
+
+h1{
+    background-color: darkorange;
+    border: 1px solid yellow;
+    color: aliceblue;
+    font-size: 400%;
+    font-style: inherit;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+
+}
